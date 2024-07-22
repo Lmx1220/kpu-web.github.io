@@ -33,12 +33,17 @@
 :::warning 替换组件库
 如果你不喜欢 Element Plus ，或者你想要将老项目迁移到 kpu-web 上，但老项目里使用的组件库并不是 Element Plus ，框架也提供了组件库替换移方案：
 
-- 《[替换为 Ant Design Vue](/guide/replace-to-antd)》
-- 《[替换为 Arco Design Vue](/guide/replace-to-arco)》
-- 《[替换为 Naive UI](/guide/replace-to-naive)》
-- 《[替换为 TDesign](/guide/replace-to-tdesign)》
-- 《[替换为 Vexip UI](/guide/replace-to-vexip)》
-- 《[替换为 iDux](/guide/replace-to-idux)》
+[//]: # (- 《[替换为 Ant Design Vue]&#40;/guide/replace-to-antd&#41;》)
+
+[//]: # (- 《[替换为 Arco Design Vue]&#40;/guide/replace-to-arco&#41;》)
+
+[//]: # (- 《[替换为 Naive UI]&#40;/guide/replace-to-naive&#41;》)
+
+[//]: # (- 《[替换为 TDesign]&#40;/guide/replace-to-tdesign&#41;》)
+
+[//]: # (- 《[替换为 Vexip UI]&#40;/guide/replace-to-vexip&#41;》)
+
+[//]: # (- 《[替换为 iDux]&#40;/guide/replace-to-idux&#41;》)
 
 如果你想使用的组件库不在上述方案中，可以通过参考任何一份方案，理解替换的整理思路，并自行替换，别担心会很复杂，我们已经将大部分工作做好了。
 :::

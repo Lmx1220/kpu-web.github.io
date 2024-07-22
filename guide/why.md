@@ -30,12 +30,22 @@ Vite + Vue3 + Vue-router + Pinia + UnoCSS + TypeScript
 
 框架默认使用了 Element Plus 作为 UI 组件库，但你也可以**轻松替换成其它 UI 组件库**，如下：
 
-- 《[替换为 Ant Design Vue](/guide/replace-to-antd)》
-- 《[替换为 Arco Design Vue](/guide/replace-to-arco)》
-- 《[替换为 Naive UI](/guide/replace-to-naive)》
-- 《[替换为 TDesign](/guide/replace-to-tdesign)》
-- 《[替换为 Vexip UI](/guide/replace-to-vexip)》
-- 《[替换为 iDux](/guide/replace-to-idux)》
+[//]: # (- 《[替换为 Ant Design Vue]&#40;/guide/replace-to-antd&#41;》)
+
+[//]: # ()
+[//]: # (- 《[替换为 Arco Design Vue]&#40;/guide/replace-to-arco&#41;》)
+
+[//]: # ()
+[//]: # (- 《[替换为 Naive UI]&#40;/guide/replace-to-naive&#41;》)
+
+[//]: # ()
+[//]: # (- 《[替换为 TDesign]&#40;/guide/replace-to-tdesign&#41;》)
+
+[//]: # ()
+[//]: # (- 《[替换为 Vexip UI]&#40;/guide/replace-to-vexip&#41;》)
+
+[//]: # ()
+[//]: # (- 《[替换为 iDux]&#40;/guide/replace-to-idux&#41;》)
 
 <table>
   <tr>
