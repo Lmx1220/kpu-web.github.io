@@ -10,7 +10,7 @@ hero:
   tagline: 开箱即用，提供舒适开发体验
   image:
     src: /logo.png
-    alt: kpu-web1
+    alt: kpu-web
   actions:
     - theme: brand
       text: 开始
