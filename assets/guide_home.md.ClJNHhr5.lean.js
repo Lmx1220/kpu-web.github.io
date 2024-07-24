@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a3 as n,ac as h}from"./chunks/framework.Cy24DNF9.js";const o=JSON.parse('{"title":"主页","description":"","frontmatter":{},"headers":[],"relativePath":"guide/home.md","filePath":"guide/home.md"}'),l={name:"guide/home.md"},t=n("",22),p=[t];function k(e,E,d,g,r,y){return a(),i("div",null,p)}const F=s(l,[["render",k]]);export{o as __pageData,F as default};

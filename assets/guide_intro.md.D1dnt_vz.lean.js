@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a,a3 as o}from"./chunks/framework.Cy24DNF9.js";const m=JSON.parse('{"title":"文档说明","description":"","frontmatter":{},"headers":[],"relativePath":"guide/intro.md","filePath":"guide/intro.md"}'),i={name:"guide/intro.md"},r=o("",3),s=[r];function c(_,n,d,p,l,u){return a(),e("div",null,s)}const f=t(i,[["render",c]]);export{m as __pageData,f as default};

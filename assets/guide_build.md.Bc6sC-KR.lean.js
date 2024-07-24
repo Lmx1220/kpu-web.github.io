@@ -1,0 +1,1 @@
+import{_ as a,c as s,o as e,a3 as n}from"./chunks/framework.Cy24DNF9.js";const b=JSON.parse('{"title":"构建与预览","description":"","frontmatter":{},"headers":[],"relativePath":"guide/build.md","filePath":"guide/build.md"}'),p={name:"guide/build.md"},t=n("",16),i=[t];function o(c,l,d,r,h,u){return e(),s("div",null,i)}const g=a(p,[["render",o]]);export{b as __pageData,g as default};

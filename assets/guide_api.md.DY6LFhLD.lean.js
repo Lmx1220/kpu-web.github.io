@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a3 as t}from"./chunks/framework.Cy24DNF9.js";const g=JSON.parse('{"title":"常用 API","description":"","frontmatter":{},"headers":[],"relativePath":"guide/api.md","filePath":"guide/api.md"}'),e={name:"guide/api.md"},n=t("",62),h=[n];function l(p,k,d,r,o,c){return a(),i("div",null,h)}const y=s(e,[["render",l]]);export{g as __pageData,y as default};

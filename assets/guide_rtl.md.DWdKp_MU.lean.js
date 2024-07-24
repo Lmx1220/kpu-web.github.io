@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as i,a3 as t,aK as e}from"./chunks/framework.Cy24DNF9.js";const _=JSON.parse('{"title":"RTL 模式","description":"","frontmatter":{},"headers":[],"relativePath":"guide/rtl.md","filePath":"guide/rtl.md"}'),n={name:"guide/rtl.md"},l=t("",6),h=[l];function p(r,d,k,o,c,g){return i(),a("div",null,h)}const u=s(n,[["render",p]]);export{_ as __pageData,u as default};
