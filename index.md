@@ -6,7 +6,7 @@ titleTemplate: 一款 Vue 中后台管理系统框架
 
 hero:
   name: kpu-web
-  text: 杰出的管理系统框架
+  text: 杰出的管理系统框架1
   tagline: 开箱即用，提供舒适开发体验
   image:
     src: /logo.png
